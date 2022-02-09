@@ -1,6 +1,6 @@
 /******************************************************************************
 
-                        Minimum spanning Tree using Krukal's algorithm
+                        Minimum spanning Tree using Kruskal's algorithm
 
 1. create rank vector with initialization of 0 and parent vector with i.
 2. sort the graph (adjaceny list) in increasing order of weights.
