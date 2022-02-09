@@ -1,6 +1,6 @@
 /******************************************************************************
 
-                                **BFS TARVERSAL OF A GRAPH**
+                                 **BFS TARVERSAL OF A GRAPH**
 1. Use a for loop so that if a graph has multiple components it can be covered
 2. Start by putting graph's vertices at the back of a queue and mark it as visited.
 3. Take the front item of the queue and add it to the bfs vector(the one which is going to be returned form this function).
